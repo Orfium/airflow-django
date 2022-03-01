@@ -7,7 +7,7 @@ license = "MIT"
 
 [tool.poetry.dependencies]
 python = ">=3.6, <3.8"
-apache-airflow = "^1.10"
+apache-airflow = ">=1.10,<3.0"
 django = ">=2.0"
 
 [tool.poetry.dev-dependencies]
